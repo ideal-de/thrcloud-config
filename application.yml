@@ -1,11 +1,11 @@
 spring:
   profiles:
     active:
-    -dev
+    - dev
 ---
 spring: 
  profiles: dev     #开发环境
-  application: 
+  application:
     name: thrcloud-config-atguigu-dev
 ---
 spring:
